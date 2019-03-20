@@ -23,7 +23,7 @@ Zadanie 1
 • **tekst** staje się **programem** po **kompilacji** (sprawdzenie czy nie ma błędów składniowych i
 semantycznych, walidacja) -> otrzymujemy **pliki**
 
-# Definicje z wykladu i labulatoriów
+# Definicje z wykladu i labolatoriów
 | Pojęcie | Definicja |
 |---|---|
 | XML | *Extensible Markup Language* - (Rozszerzalny Język Znaczników)
